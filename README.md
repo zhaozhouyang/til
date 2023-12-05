@@ -31,7 +31,8 @@
 ### CSS
 
 - [定义更好用的CSS Reset (Better Css Reset)](https://blog.zhaozhouyang.com/2022/01/18/css/better-css-reset)
-- [一文带你快速了解常用的CSS选择器场景 (Css Selector Scenario)](https://blog.zhaozhouyang.com/2022/03/30/css/css-selector-scenario)
+- [常用的CSS选择器场景 (Css Selector Scenario)](https://blog.zhaozhouyang.com/2022/03/30/css/css-selector-scenario)
+- [CSS的特异性 (Css Specificity)](https://blog.zhaozhouyang.com/2023/12/04/css/css-specificity)
 
 ### Data Ops
 
@@ -67,7 +68,7 @@
 ### Network
 
 - [生活中的正向与反向代理 (Forward And Reverse Proxy)](https://blog.zhaozhouyang.com/2022/01/09/network/forward-and-reverse-proxy)
-- [一文带你了解什么是CDN (What Is Cdn)](https://blog.zhaozhouyang.com/2021/12/30/network/what-is-cdn)
+- [CDN简介 (What Is Cdn)](https://blog.zhaozhouyang.com/2021/12/30/network/what-is-cdn)
 
 ### Reading
 
