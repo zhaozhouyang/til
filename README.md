@@ -5,6 +5,7 @@
 ### Categories
 
 * [Architecture](#architecture)
+* [Badminton](#badminton)
 * [Chrome](#chrome)
 * [CSS](#css)
 * [Data Ops](#data-ops)
@@ -23,6 +24,10 @@
 
 - [聊一聊前端程序员的现状与挑战 (Challenges In Front End Development)](https://blog.zhaozhouyang.com/2022/06/25/architecture/challenges-in-front-end-development)
 - [通俗易懂的分布式原理 (Replica And Shard)](https://blog.zhaozhouyang.com/2022/07/05/architecture/replica-and-shard)
+
+### Badminton
+
+- [羽毛球反手发球技巧 (Badminton Front Court Serve)](https://blog.zhaozhouyang.com/2023/12/12/badminton/badminton-front-court-serve)
 
 ### Chrome
 
