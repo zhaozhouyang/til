@@ -15,6 +15,7 @@
 * [Http](#http)
 * [Linux](#linux)
 * [Mac](#mac)
+* [Mysql](#mysql)
 * [Network](#network)
 * [React Native](#react-native)
 * [Reading](#reading)
@@ -75,6 +76,10 @@
 ### Mac
 
 - [如何在MacOS中进行声音内录 (Mac Internal Sound Recording)](https://blog.zhaozhouyang.com/2022/02/04/mac/mac-internal-sound-recording)
+
+### Mysql
+
+- [MySQL的字符编码 (Mysql Character Encoding)](https://blog.zhaozhouyang.com/2024/01/10/mysql/mysql-character-encoding)
 
 ### Network
 
