@@ -19,6 +19,7 @@
 * [Network](#network)
 * [React Native](#react-native)
 * [Reading](#reading)
+* [Shell](#shell)
 
 ---
 
@@ -30,7 +31,9 @@
 
 ### Badminton
 
+- [羽毛球步法 (Badminton Footwork)](https://blog.zhaozhouyang.com/2024/01/10/badminton/badminton-footwork)
 - [羽毛球反手发球技巧 (Badminton Front Court Serve)](https://blog.zhaozhouyang.com/2023/12/12/badminton/badminton-front-court-serve)
+- [羽毛球握拍 (Badminton Grip)](https://blog.zhaozhouyang.com/2024/01/10/badminton/badminton-grip)
 
 ### Chrome
 
@@ -94,3 +97,7 @@
 
 - [《13+1体系-打造持续健康的组织》读书笔记 (Reading 13 1)](https://blog.zhaozhouyang.com/2022/01/02/reading/reading-13-1)
 - [《构建之法》读书笔记 (Reading Build To Win)](https://blog.zhaozhouyang.com/2023/09/25/reading/reading-build-to-win)
+
+### Shell
+
+- [Shell中的文件管理 (Shell File Management)](https://blog.zhaozhouyang.com/2024/01/11/shell/shell-file-management)
