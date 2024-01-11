@@ -12,7 +12,9 @@
 * [Dev Ops](#dev-ops)
 * [Elasticsearch](#elasticsearch)
 * [Git](#git)
+* [Healthy](#healthy)
 * [Http](#http)
+* [K8s](#k8s)
 * [Linux](#linux)
 * [Mac](#mac)
 * [Mysql](#mysql)
@@ -68,9 +70,17 @@
 
 - [创建GitHub新的SSH密钥 (Generating A New Ssh Key For Git Hub Use)](https://blog.zhaozhouyang.com/2023/12/25/git/generating-a-new-ssh-key-for-git-hub-use)
 
+### Healthy
+
+- [抗药性预防 (Antimicrobial Resistance Prevention)](https://blog.zhaozhouyang.com/2024/01/12/healthy/antimicrobial-resistance-prevention)
+
 ### Http
 
 - [CSRF与SameSite (What Is Samesite)](https://blog.zhaozhouyang.com/2022/03/10/http/what-is-samesite)
+
+### K8s
+
+- [svc与ep的关系与使用场景 (K8s Svc And Ep)](https://blog.zhaozhouyang.com/2024/01/12/k8s/k8s-svc-and-ep)
 
 ### Linux
 
