@@ -43,6 +43,7 @@
 
 ### CSS
 
+- [生动的网页知识基础入门 (Basic Web Pages)](https://blog.zhaozhouyang.com/2024/01/24/css/basic-web-pages)
 - [定义更好用的CSS Reset (Better Css Reset)](https://blog.zhaozhouyang.com/2022/01/18/css/better-css-reset)
 - [常用的CSS选择器场景 (Css Selector Scenario)](https://blog.zhaozhouyang.com/2022/03/30/css/css-selector-scenario)
 - [CSS的特异性 (Css Specificity)](https://blog.zhaozhouyang.com/2023/12/04/css/css-specificity)
@@ -58,13 +59,14 @@
 
 ### Elasticsearch
 
-- [6. ES的分布式原理 (Es Architecture)](https://blog.zhaozhouyang.com/2022/07/05/elasticsearch/es-architecture)
-- [4. 与ES通信的两种方式 (Es Client Vs Api)](https://blog.zhaozhouyang.com/2022/06/02/elasticsearch/es-client-vs-api)
-- [3. 如何安装符合生产环境要求的ES集群 (Es Cluster Install)](https://blog.zhaozhouyang.com/2022/06/02/elasticsearch/es-cluster-install)
-- [2. 如何本地安装与调试ES (Es Install)](https://blog.zhaozhouyang.com/2022/05/22/elasticsearch/es-install)
-- [1. ES版本与开源简介 (Es Intro)](https://blog.zhaozhouyang.com/2022/05/10/elasticsearch/es-intro)
-- [7. 关于ES数据读写那点事儿 (Es Read And Write)](https://blog.zhaozhouyang.com/2022/08/13/elasticsearch/es-read-and-write)
-- [5. ES入门基础与常见操作 (Es Simple Search)](https://blog.zhaozhouyang.com/2022/06/03/elasticsearch/es-simple-search)
+- [1. ES版本与开源简介 (1 Es Intro)](https://blog.zhaozhouyang.com/2022/05/10/elasticsearch/1-es-intro)
+- [2. 如何本地安装与调试ES (2 Es Install)](https://blog.zhaozhouyang.com/2022/05/22/elasticsearch/2-es-install)
+- [3. 如何安装符合生产环境要求的ES集群 (3 Es Cluster Install)](https://blog.zhaozhouyang.com/2022/06/02/elasticsearch/3-es-cluster-install)
+- [4. 与ES通信的两种方式 (4 Es Client Vs Api)](https://blog.zhaozhouyang.com/2022/06/02/elasticsearch/4-es-client-vs-api)
+- [5. ES入门基础与常见操作 (5 Es Simple Search)](https://blog.zhaozhouyang.com/2022/06/03/elasticsearch/5-es-simple-search)
+- [6. ES的分布式原理 (6 Es Architecture)](https://blog.zhaozhouyang.com/2022/07/05/elasticsearch/6-es-architecture)
+- [7. 关于ES数据读写那点事儿 (7 Es Read And Write)](https://blog.zhaozhouyang.com/2022/08/13/elasticsearch/7-es-read-and-write)
+- [8. 常见ES结构化搜索 (8 Es Structured Search)](https://blog.zhaozhouyang.com/2024/01/24/elasticsearch/8-es-structured-search)
 
 ### Git
 
