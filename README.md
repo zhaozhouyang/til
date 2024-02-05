@@ -60,6 +60,7 @@
 ### Elasticsearch
 
 - [1. ES版本与开源简介 (1 Es Intro)](https://blog.zhaozhouyang.com/2022/05/10/elasticsearch/1-es-intro)
+- [10. 深入调校ES的多字段查询 (10 Es Multi Field Search)](https://blog.zhaozhouyang.com/2024/01/31/elasticsearch/10-es-multi-field-search)
 - [2. 如何本地安装与调试ES (2 Es Install)](https://blog.zhaozhouyang.com/2022/05/22/elasticsearch/2-es-install)
 - [3. 如何安装符合生产环境要求的ES集群 (3 Es Cluster Install)](https://blog.zhaozhouyang.com/2022/06/02/elasticsearch/3-es-cluster-install)
 - [4. 与ES通信的两种方式 (4 Es Client Vs Api)](https://blog.zhaozhouyang.com/2022/06/02/elasticsearch/4-es-client-vs-api)
@@ -67,7 +68,7 @@
 - [6. ES的分布式原理 (6 Es Architecture)](https://blog.zhaozhouyang.com/2022/07/05/elasticsearch/6-es-architecture)
 - [7. 关于ES数据读写那点事儿 (7 Es Read And Write)](https://blog.zhaozhouyang.com/2022/08/13/elasticsearch/7-es-read-and-write)
 - [8. 常见ES结构化搜索 (8 Es Structured Search)](https://blog.zhaozhouyang.com/2024/01/24/elasticsearch/8-es-structured-search)
-- [9. 常见ES全文搜索 (9 Es Full Text Search)](https://blog.zhaozhouyang.com/2024/01/24/elasticsearch/9-es-full-text-search)
+- [9. 常见ES全文搜索 (9 Es Full Text Search)](https://blog.zhaozhouyang.com/2024/01/25/elasticsearch/9-es-full-text-search)
 
 ### Git
 
