@@ -98,6 +98,7 @@
 ### Mac
 
 - [如何在MacOS中进行声音内录 (Mac Internal Sound Recording)](https://blog.zhaozhouyang.com/2022/02/04/mac/mac-internal-sound-recording)
+- [解决 macOS 系统中硬盘无法解除挂载的问题 (Mac Unmount Disk)](https://blog.zhaozhouyang.com/2024/04/05/mac/mac-unmount-disk)
 
 ### Mysql
 
@@ -106,6 +107,7 @@
 ### Network
 
 - [生活中的正向与反向代理 (Forward And Reverse Proxy)](https://blog.zhaozhouyang.com/2022/01/09/network/forward-and-reverse-proxy)
+- [如何使用招行完成GoogleAdsense收款 (How To Receive Payments From Google Adsense)](https://blog.zhaozhouyang.com/2024/03/04/network/how-to-receive-payments-from-google-adsense)
 - [iOS手机版小火箭获取方式 (Shadowrocket Download)](https://blog.zhaozhouyang.com/2024/02/20/network/shadowrocket-download)
 - [CDN简介 (What Is Cdn)](https://blog.zhaozhouyang.com/2021/12/30/network/what-is-cdn)
 
