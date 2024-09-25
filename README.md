@@ -4,6 +4,7 @@
 
 ### Categories
 
+* [Android](#android)
 * [Architecture](#architecture)
 * [Badminton](#badminton)
 * [Chrome](#chrome)
@@ -27,6 +28,10 @@
 ---
 
  
+### Android
+
+- [如何通过“20人+14天”完成Google Play封闭测试 (Google Play Closed Testing)](https://blog.zhaozhouyang.com/2024/07/09/android/google-play-closed-testing)
+
 ### Architecture
 
 - [聊一聊前端程序员的现状与挑战 (Challenges In Front End Development)](https://blog.zhaozhouyang.com/2022/06/25/architecture/challenges-in-front-end-development)
@@ -94,6 +99,7 @@
 ### Linux
 
 - [了解Unix的历史与现状 (Unix History)](https://blog.zhaozhouyang.com/2022/05/22/linux/unix-history)
+- [为什么没有更多人选择使用Linux？ (Why Dont More People Use Linux)](https://blog.zhaozhouyang.com/2024/09/25/linux/why-dont-more-people-use-linux)
 
 ### Mac
 
