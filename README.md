@@ -12,6 +12,7 @@
 * [Data Ops](#data-ops)
 * [Dev Ops](#dev-ops)
 * [Elasticsearch](#elasticsearch)
+* [Finance Insights](#finance-insights)
 * [Git](#git)
 * [Healthy](#healthy)
 * [Http](#http)
@@ -75,6 +76,10 @@
 - [7. 关于ES数据读写那点事儿 (7 Es Read And Write)](https://blog.zhaozhouyang.com/2022/08/13/elasticsearch/7-es-read-and-write)
 - [8. 常见ES结构化搜索 (8 Es Structured Search)](https://blog.zhaozhouyang.com/2024/01/24/elasticsearch/8-es-structured-search)
 - [9. 常见ES全文搜索 (9 Es Full Text Search)](https://blog.zhaozhouyang.com/2024/01/25/elasticsearch/9-es-full-text-search)
+
+### Finance Insights
+
+- [数字难民如何足不出户进行跨境交易 (Ocbc)](https://blog.zhaozhouyang.com/2024/10/07/finance-insights/ocbc)
 
 ### Git
 
