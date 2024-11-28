@@ -12,6 +12,7 @@
 * [Data Ops](#data-ops)
 * [Dev Ops](#dev-ops)
 * [Elasticsearch](#elasticsearch)
+* [Finance Insights](#finance-insights)
 * [Git](#git)
 * [Healthy](#healthy)
 * [Http](#http)
@@ -76,6 +77,10 @@
 - [8. 常见ES结构化搜索 (8 Es Structured Search)](https://blog.zhaozhouyang.com/2024/01/24/elasticsearch/8-es-structured-search)
 - [9. 常见ES全文搜索 (9 Es Full Text Search)](https://blog.zhaozhouyang.com/2024/01/25/elasticsearch/9-es-full-text-search)
 
+### Finance Insights
+
+- [数字难民如何足不出户进行跨境交易 (Ocbc)](https://blog.zhaozhouyang.com/2024/10/07/finance-insights/ocbc)
+
 ### Git
 
 - [创建GitHub新的SSH密钥 (Generating A New Ssh Key For Git Hub Use)](https://blog.zhaozhouyang.com/2023/12/25/git/generating-a-new-ssh-key-for-git-hub-use)
@@ -128,4 +133,5 @@
 
 ### Shell
 
+- [常见压缩格式与工具使用 (Common Compression Formats And Tools)](https://blog.zhaozhouyang.com/2024/11/28/shell/common-compression-formats-and-tools)
 - [Shell中的文件管理 (Shell File Management)](https://blog.zhaozhouyang.com/2024/01/11/shell/shell-file-management)
