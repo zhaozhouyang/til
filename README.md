@@ -17,6 +17,7 @@
 * [Healthy](#healthy)
 * [Http](#http)
 * [Ios](#ios)
+* [Javascript](#javascript)
 * [K8s](#k8s)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -98,6 +99,10 @@
 ### Ios
 
 - [应用的SKU和Bundle ID说明 (Sku Bundle Id)](https://blog.zhaozhouyang.com/2024/03/03/ios/sku-bundle-id)
+
+### Javascript
+
+- [深入理解并发、并行与 JavaScript (Understanding Concurrency Parallelism And Js)](https://blog.zhaozhouyang.com/2024/12/21/javascript/understanding-concurrency-parallelism-and-js)
 
 ### K8s
 
