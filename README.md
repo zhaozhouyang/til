@@ -102,6 +102,7 @@
 
 ### Javascript
 
+- [网页精准跳转技巧：通过链接直接定位到指定内容 (Linking Directly To Web Page Content)](https://blog.zhaozhouyang.com/2024/12/25/javascript/linking-directly-to-web-page-content)
 - [深入理解并发、并行与 JavaScript (Understanding Concurrency Parallelism And Js)](https://blog.zhaozhouyang.com/2024/12/21/javascript/understanding-concurrency-parallelism-and-js)
 
 ### K8s
