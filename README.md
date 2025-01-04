@@ -38,6 +38,7 @@
 
 - [聊一聊前端程序员的现状与挑战 (Challenges In Front End Development)](https://blog.zhaozhouyang.com/2022/06/25/architecture/challenges-in-front-end-development)
 - [DRY（Don't Repeat Yourself）原则在软件开发中的应用与实践 (Dont Repeat Yourself)](https://blog.zhaozhouyang.com/2024/12/04/architecture/dont-repeat-yourself)
+- [软件版本命名新趋势：“自豪”与“羞愧”版本 (Pride And Shame Versioning)](https://blog.zhaozhouyang.com/2025/01/04/architecture/pride-and-shame-versioning)
 - [通俗易懂的分布式原理 (Replica And Shard)](https://blog.zhaozhouyang.com/2022/07/05/architecture/replica-and-shard)
 - [计算机编程的哲学：从古代哲学到现代实践 (The Philosophy Of Programming)](https://blog.zhaozhouyang.com/2024/12/11/architecture/the-philosophy-of-programming)
 
