@@ -66,6 +66,7 @@
 
 ### Dev Ops
 
+- [为什么GPU如此强大，CPU依然不可或缺？ (If Gpus Are So Good Why Do We Still Use Cpus At All)](https://blog.zhaozhouyang.com/2025/01/11/dev-ops/if-gpus-are-so-good-why-do-we-still-use-cpus-at-all)
 - [不小心删除了docker容器怎么恢复？ (Recover Deleted Docker Container)](https://blog.zhaozhouyang.com/2022/02/21/dev-ops/recover-deleted-docker-container)
 
 ### Elasticsearch
