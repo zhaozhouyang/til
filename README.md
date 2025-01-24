@@ -25,6 +25,7 @@
 * [Network](#network)
 * [React Native](#react-native)
 * [Reading](#reading)
+* [Ros](#ros)
 * [Shell](#shell)
 
 ---
@@ -84,6 +85,7 @@
 
 ### Finance Insights
 
+- [欧洲程序员薪资分析：从爬虫数据看各国薪资差异 (Europe Programmer Salary Analysis)](https://blog.zhaozhouyang.com/2025/01/25/finance-insights/europe-programmer-salary-analysis)
 - [数字难民如何足不出户进行跨境交易 (Ocbc)](https://blog.zhaozhouyang.com/2024/10/07/finance-insights/ocbc)
 
 ### Git
@@ -140,6 +142,10 @@
 
 - [《13+1体系-打造持续健康的组织》读书笔记 (Reading 13 1)](https://blog.zhaozhouyang.com/2022/01/02/reading/reading-13-1)
 - [《构建之法》读书笔记 (Reading Build To Win)](https://blog.zhaozhouyang.com/2023/09/25/reading/reading-build-to-win)
+
+### Ros
+
+- [ROS主流版本与适用场景建议 (Ros Distributions)](https://blog.zhaozhouyang.com/2025/01/18/ros/ros-distributions)
 
 ### Shell
 
