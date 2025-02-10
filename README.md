@@ -6,7 +6,6 @@
 
 * [Android](#android)
 * [Architecture](#architecture)
-* [Badminton](#badminton)
 * [Chrome](#chrome)
 * [CSS](#css)
 * [Data Ops](#data-ops)
@@ -19,6 +18,7 @@
 * [Ios](#ios)
 * [Javascript](#javascript)
 * [K8s](#k8s)
+* [Lifestyle](#lifestyle)
 * [Linux](#linux)
 * [Mac](#mac)
 * [Mysql](#mysql)
@@ -41,13 +41,8 @@
 - [DRY（Don't Repeat Yourself）原则在软件开发中的应用与实践 (Dont Repeat Yourself)](https://blog.zhaozhouyang.com/2024/12/04/architecture/dont-repeat-yourself)
 - [软件版本命名新趋势：“自豪”与“羞愧”版本 (Pride And Shame Versioning)](https://blog.zhaozhouyang.com/2025/01/04/architecture/pride-and-shame-versioning)
 - [通俗易懂的分布式原理 (Replica And Shard)](https://blog.zhaozhouyang.com/2022/07/05/architecture/replica-and-shard)
+- [编程世界的AI依赖症：自救与反思 (The Dependency Dilemma In Programming Self Help And Reflection)](https://blog.zhaozhouyang.com/2025/02/10/architecture/the-dependency-dilemma-in-programming-self-help-and-reflection)
 - [计算机编程的哲学：从古代哲学到现代实践 (The Philosophy Of Programming)](https://blog.zhaozhouyang.com/2024/12/11/architecture/the-philosophy-of-programming)
-
-### Badminton
-
-- [羽毛球步法 (Badminton Footwork)](https://blog.zhaozhouyang.com/2024/01/10/badminton/badminton-footwork)
-- [羽毛球反手发球技巧 (Badminton Front Court Serve)](https://blog.zhaozhouyang.com/2023/12/12/badminton/badminton-front-court-serve)
-- [羽毛球握拍 (Badminton Grip)](https://blog.zhaozhouyang.com/2024/01/10/badminton/badminton-grip)
 
 ### Chrome
 
@@ -112,6 +107,12 @@
 ### K8s
 
 - [svc与ep的关系与使用场景 (K8s Svc And Ep)](https://blog.zhaozhouyang.com/2024/01/12/k8s/k8s-svc-and-ep)
+
+### Lifestyle
+
+- [羽毛球步法 (Badminton Footwork)](https://blog.zhaozhouyang.com/2024/01/10/lifestyle/badminton-footwork)
+- [羽毛球反手发球技巧 (Badminton Front Court Serve)](https://blog.zhaozhouyang.com/2023/12/12/lifestyle/badminton-front-court-serve)
+- [羽毛球握拍 (Badminton Grip)](https://blog.zhaozhouyang.com/2024/01/10/lifestyle/badminton-grip)
 
 ### Linux
 
