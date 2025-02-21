@@ -104,6 +104,7 @@
 - [JavaScript的诞生与进化 (Javascript Intro)](https://blog.zhaozhouyang.com/2025/02/17/javascript/javascript-intro)
 - [网页精准跳转技巧：通过链接直接定位到指定内容 (Linking Directly To Web Page Content)](https://blog.zhaozhouyang.com/2024/12/25/javascript/linking-directly-to-web-page-content)
 - [深入理解并发、并行与 JavaScript (Understanding Concurrency Parallelism And Js)](https://blog.zhaozhouyang.com/2024/12/21/javascript/understanding-concurrency-parallelism-and-js)
+- [为什么要用 const 和 let，而不是 var？ (Why Not Var)](https://blog.zhaozhouyang.com/2025/02/21/javascript/why-not-var)
 
 ### K8s
 
